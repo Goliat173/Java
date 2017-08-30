@@ -1,0 +1,10 @@
+-konwersja txt na zapis szesnastkowy (mo¿e z szyfrowaniem dodatkowo :D, jakieœ has³o )
+-gra w wojne (karciana)
+-baza pracowników i ich wyposa¿enia firmowego z mo¿liwoœci¹ eksportu do csv (Excel) oraz prostymi obliczeniami (ile jeszcze urlopu zosta³o, poziomy uprawnieñ, wystawianie pochwa³/z³ojeñ u¿ytkownikom, pensja itp.)
+-taki syllabus przerobiony - baza lat, przedmiotów, mo¿liwoœc wpisania ocen, obliczanie œredniej, jdbc
+-totolotek
+-system biblioteki prosty okienkowy
+-podaj spó³g³oske/samog³oske, min.6, program ma utworzyæ jak najd³u¿sze s³owo (u¿yæ Arrays), wczytaæ s³ownik z pliku
+-robot do obs³ugi czegos na komputerze, np myszka na start i  odpalanie jakiejœ aplikacji, zak³adek w przegl¹darce, rysowanie w paincie buŸki :D super
+-jak robiæ pliki wykonywalne
+-jak porównaæ dwie kolumny w excelu
