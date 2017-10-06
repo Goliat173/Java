@@ -8,3 +8,4 @@
 -robot do obs³ugi czegos na komputerze, np myszka na start i  odpalanie jakiejœ aplikacji, zak³adek w przegl¹darce, rysowanie w paincie buŸki :D super
 -jak robiæ pliki wykonywalne
 -jak porównaæ dwie kolumny w excelu
+-paczkomaty aplikacja
